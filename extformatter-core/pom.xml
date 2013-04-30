@@ -21,7 +21,7 @@
     <dependency>
       <groupId>com.intellij</groupId>
       <artifactId>annotations</artifactId>
-      <version>116.108</version>
+      <version>${idea.version}</version>
     </dependency>
 
     <dependency>
