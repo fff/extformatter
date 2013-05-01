@@ -30,7 +30,7 @@ import java.util.Map;
  * @author Esko Luontola
  * @since 18.12.2007
  */
-@RunWith(JDaveRunner.class)
+//@RunWith(JDaveRunner.class)
 public class TempFileManagerSpec extends Specification<TempFileManager> {
 
     public class ATempFileManager {

@@ -25,7 +25,7 @@
     <plugin.name>Son of External Code Formatter</plugin.name>
     <plugin.id>SonOfExternalCodeFormatter</plugin.id>
     <idea.version>12.0</idea.version>
-    <idea.home>/Applications/IntelliJ\ IDEA\ 12.app</idea.home>
+    <idea.home>/Users/twer/DevTools/idea_home</idea.home>
   </properties>
 
   <licenses>
@@ -186,7 +186,6 @@
   <dependencyManagement>
     <dependencies>
 
-<!--
       <dependency>
         <groupId>com.intellij</groupId>
         <artifactId>annotations</artifactId>
@@ -194,7 +193,6 @@
         <scope>system</scope>
         <systemPath>${idea.home}/lib/annotations.jar</systemPath>
       </dependency>
--->
 
       <dependency>
         <groupId>com.intellij</groupId>

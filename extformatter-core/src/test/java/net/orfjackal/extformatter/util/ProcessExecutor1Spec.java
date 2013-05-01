@@ -27,7 +27,7 @@ import java.io.ByteArrayOutputStream;
  * @author Esko Luontola
  * @since 6.12.2007
  */
-@RunWith(JDaveRunner.class)
+//@RunWith(JDaveRunner.class)
 public class ProcessExecutor1Spec extends Specification<ProcessExecutor1> {
 
     public class AnExecutor {

@@ -27,7 +27,7 @@ import java.io.*;
  * @author Esko Luontola
  * @since 6.12.2007
  */
-@RunWith(JDaveRunner.class)
+//@RunWith(JDaveRunner.class)
 public class ProcessExecutor2Spec extends Specification<ProcessExecutor2> {
 
     public class AProcessExecutor {
